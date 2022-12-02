@@ -1,0 +1,493 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass abntex2
+\use_default_options true
+\maintain_unincluded_children false
+\language brazilian
+\language_package default
+\inputencoding utf8
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Introdução
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Introdução
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "cha:Introdução"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+lhead{
+\backslash
+thechapter
+\backslash
+space - Introdução}
+\backslash
+rhead{}
+\backslash
+pagenumbering{arabic}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+O derrame de óleo no meio ambiente, e especialmente ambiente no ambiente
+ marinho, vem causando uma crise de danos ecológicos graves.
+ (CHU; PAN, 2012).
+ Os derrames de óleo são comuns em ambiente marinho, e muitos derrames considera
+dos pequenos não são efetivamente reportados.
+ Dentre as fontes causais de derrames estão inclusas descargas de óleo cru
+ por navios-tanques, plataformas de produção, sondas de perfuração e poços
+ de petróleo; descargas de derivados de petróleo (tais como gasolina e óleo
+ diesel) e seus subprodutos de exploração (como água produzida e lama de
+ perfuração de base oleosa).
+ 
+\end_layout
+
+\begin_layout Standard
+Os derrames de óleo podem ocorrer por muitas razões durante os processos
+ de exploração, refino e transporte, tais como sobrepressurização de vasos,
+ falha mecânica, corrosão de linhas de tubos, colisões de embarcações, entre
+ outros fatores que podem levar a falhas na estanqueidade do sistema fechado.
+ (Lee et al., 2015).
+ 
+\end_layout
+
+\begin_layout Standard
+No ambiente marinho o óleo pode entrar em contato com a água de forma natural,
+ antropogênica ou intencional.
+ No derrame natural de óleo o principal exemplo é a exsudação do petróleo
+ devido às falhas em rochas selantes (ou capeadoras) dos reservatórios,
+ as quais associadas a falhas estruturais, fornecem caminhos de fluxo até
+ a superfície do assoalho marinho.
+ Acidentes em navios-tanques responsáveis pelo transporte do petróleo até
+ a costa, oleodutos, instalações costeiras e em plataformas em alto mar
+ são as principais fontes antropogênicas.
+ (STOUT; WANG, 2007).
+ Por outra perspectiva, as descargas intencionais que que somam despejo
+ de efluentes como esgoto e outras misturas oleosas podem ocorrer devido
+ a lavagem de porões de carga ou ainda pelo descarte de águas produzidas
+ por plataformas em alto mar.
+ (STOUT; WANG, 2007).
+ 
+\end_layout
+
+\begin_layout Standard
+O estudo de derrames de óleo, de forma geral e em águas offshore, tem ganhado
+ maior significância desde o grande acidente da Deepwater Horizon, no Golfo
+ do México em 2010, bem como o vazamento em grande escala que assolou a
+ costa brasileira, mapeado por mais de 3000 km de litoral e atingindo mais
+ de 980 praias apenas quatro meses após a primeira observação.
+ (SOARES et al.,2020).
+ Outros acidentes de derrames de óleos marinhos pelo mundo são uma das maiores
+ fontes de poluição, causando gigantescos danos ambientais e destruição
+ econômica.
+ 
+\end_layout
+
+\begin_layout Section
+Escopo do Problema
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Escopo do Problema
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Escopo-do-Problema"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A International Tanker Owners Pollution Federation, ITOPF (2021), fez um
+ levantamento histórico de derramamento ao logo do mundo desde 1970 até
+ 2021.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/table1.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Resumo dos 20 maiores derramamentos que ocorreram desde 1979
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+De acordo com esse relatório, houve uma diminuição de 95% no número de acidentes
+ desde a década de 70.
+ Apesar dessa queda, os vazamentos de óleo continuam acontecendo e a quantidade
+ em contato com a água é preocupante.
+ Só em 2019, mais de 1000 toneladas de óleo foram computadas, sendo um vazamento
+ em larga escala (>700 toneladas) e dois em média escala (7-700 toneladas)
+ (ITOPF, 2020).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/ITOPF1.png
+	lyxscale 50
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Tendência global de derramamento de óleo
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Resumo-dos-20"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Diversas técnicas podem ser utilizadas no controle de acidentes, como uso
+ de barreiras físicas de contenção da fase contínua do óleo, uso de skimmers
+ na separação do óleo contido na superfície do líquido e dispersantes, que
+ são exemplos comuns juntamente com a queima in-situ.
+ Sarbatly et al., (2016) define a queima in situ como o método mais econômico,
+ no entanto, durante o processo pode ocorrer a dispersão do óleo dependendo
+ do comportamento dos ventos e a alta emissão de gases estufa como CO2.
+ No entanto, devido a crescente preocupação da indústria e seus agentes
+ reguladores na busca da utilização de práticas mais sustentáveis e econômicas
+ e com menores danos colaterais de cunho ambiental, outras técnicas como
+ a biorremediação, bioestimulação e a utilização de materiais absorventes
+ hidrofóbicos podem ser aplicadas em conjunto com as demais técnicas existentes
+ a fim de aumentar a eficiência na mitigação dos derrames em alto mar.
+ O uso de materiais absorventes é considerado um dos métodos mais eficazes,
+ pois possui baixo custo operacional de implementação, alta disponibilidade
+ dos materiais utilizados, propriedades de hidrofobicidade, absorção e de
+ retenção de óleo, entre outros.
+ (SARBATLY et al., 2016).
+ Chu e Pan (2012) comentam que o principal desafio de utilizar absorvente
+ é aumentar a absorção de óleo e a repelência à água para fins de aplicação
+ prática.
+ 
+\end_layout
+
+\begin_layout Standard
+Sendo assim cada vez mais áreas de pesquisa têm surgido para estudar maneiras
+ de combater as consequências de um derramamento.
+ Uma destas é o estudo de materiais absorventes de nanoescala, com materiais
+ nanoparticulados com dimensões entre 1 e 100 nanômetros (nm), com propriedades
+ hidrofóbicas e absorventes ao óleo, buscando reduzir o tempo de resposta
+ ao espalhamento do óleo e o tamanho da área afetada.
+ Estudos recentes, mostraram que as nanopartículas superparamagnéticas de
+ óxido de ferro (SPIONs – superparamagnetic iron oxide nanoparticles) tem
+ apresentado ótimos resultados na remoção do óleo da água devido, principalmente
+, ao tamanho da partícula, natureza estável, propriedades super-paramagnéticas
+ e a rápida resposta ao campo magnético, além de sua boa dispersão em óleos
+ (DEBS et al., 2019, SINGH et al., 2020).
+ Nesse paradigma de resolução do problema, o desenvolvimento de materiais
+ que buscam absorver o óleo disperso em água tem sua importância elevada.
+ 
+\end_layout
+
+\begin_layout Standard
+Segundo Alabresm et al., 2018, o uso de nanopartículas (NP’s) de material
+ ferromagnético revestidas com polímeros absorventes, que viabiliza o manuseio
+ da fase absorvida por meio de ímãs e indutores magnéticos, tem potencial
+ para aumentar a eficiência do processo de retirada da fase dispersa de
+ óleo em porcentagens altas de 80% a 100% de recuperação de compostos orgânicos
+ voláteis (VOC’s) em um curto período de uma hora, e de mais de 50% (com
+ p < 0,05) da recuperação de compostos orgânicos semi-voláteis em períodos
+ de até 48 horas (Alabresm et al., 2018).
+ No entanto, se torna interessante o levantamento da eficiência e interação
+ no uso dessas técnicas, quando aplicadas em água em condições de salinidade
+ semelhantes ao ambiente marinho, efeito pouco estudado até o momento, sendo
+ a maioria dos experimentos conduzida em água destilada.
+ Outro ponto de interesse é o efeito sobre contaminantes de alta complexidade
+ como o petróleo, sendo os experimentos realizados prioritariamente com
+ óleos lubrificantes, óleos minerais e outras misturas oleosas homogêneas,
+ as quais não possuem a ampla gama de componentes que seria encontrada em
+ um derramamento de petróleo bruto.
+ 
+\end_layout
+
+\begin_layout Standard
+A nanotecnologia está se provando como uma ferramenta valiosa na limpeza
+ de derrames de óleo ou vazamentos em água, utilizando nanomateriais magnéticos
+ tais como nanopartículas de óxido de ferro superparamagnéticas funcionalizadas
+ (SPION’s) (Singh et al., 2020).
+ 
+\end_layout
+
+\begin_layout Standard
+Nesse contexto, esse trabalho se direciona à utilização das SPIONs em simulações
+ de derrame de óleo visando a remediação de áreas contaminadas por petróleo,
+ levando em conta parâmetros como a fração de óleo recuperada, a natureza
+ do óleo derramado e a salinidade da água que será utilizada na simulação.
+ 
+\end_layout
+
+\begin_layout Section
+Objetivos
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Objetivos
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Objetivos"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+O objetivo geral deste trabalho é realizar o estudo da eficiência de absorção
+ do petróleo bruto por material vegetal tratado com diferentes tipos de
+ SPION’s em água salgada para diferentes técnicas de tratamento do material
+ vegetal com o material absorvente e analisando a possibilidade de reutilização
+ em posteriores operações de remediação de derrames de óleo no mar.
+\end_layout
+
+\begin_layout Standard
+• São objetivos específicos:
+\end_layout
+
+\begin_layout Standard
+– Analisar a eficiência de absorção de diferentes SPION’s ao petróleo em
+ ambiente salino; 
+\end_layout
+
+\begin_layout Standard
+– Determinar um tratamento que proporcione maior absorção de óleo para o
+ material vegetal precursor com as SPION’s; 
+\end_layout
+
+\begin_layout Standard
+– Avaliar possível utilização do tratamento em novo fluido aquoso base glicerina
+ bruta.
+ 
+\end_layout
+
+\begin_layout Standard
+ 
+\end_layout
+
+\begin_layout Section
+Organização do Documento
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Organização do Documento
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Organizacao-do-Documento"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Apresenta-se nesta seção a organização do documento.
+ 
+\end_layout
+
+\begin_layout Standard
+No Capítulo 2, “Revisão Bibliográfica”, apresenta-se uma revisão bibliográfica
+ detalhada dos trabalhos, técnicos e científicos, que estão diretamente
+ relacionados ao presente trabalho.
+ 
+\end_layout
+
+\begin_layout Standard
+No Capítulo 3, “Metodologia”, apresenta-se a metodologia científica a ser
+ utilizada no desenvolvimento deste trabalho.
+ Inclui-se informações sobre motivação, área da pesquisa, instrumentos (materiai
+s, equipamentos, softwares) utilizados, dados e formas de análise e interpretaçã
+o.
+ 
+\end_layout
+
+\begin_layout Standard
+No Capítulo 4, “Resultados e Discussões”, apresenta-se os resultados obtidos
+ e análises desenvolvidas relativas aos dados experimentais dos SPION’s
+ utilizados.
+ 
+\end_layout
+
+\begin_layout Standard
+No Capítulo 5, “Conclusões”, apresenta-se neste capítulo as conclusões e
+ sugestões para trabalhos futuros.
+ 
+\end_layout
+
+\begin_layout Standard
+Apresenta-se a seguir as “Referências Bibliográficas”.
+ 
+\end_layout
+
+\begin_layout Standard
+Apresenta-se a seguir os “Anexos” do presente trabalho, com dados experimentais
+ relativos aos SPION’s utilizados.
+\end_layout
+
+\end_body
+\end_document

@@ -1,0 +1,1457 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass abntex2
+\use_default_options true
+\maintain_unincluded_children false
+\language brazilian
+\language_package default
+\inputencoding utf8
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Revisão Bibliográfica
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Revisão Bibliográfica
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "cha:Revisão-Bibliográfica"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+lhead{
+\backslash
+thechapter
+\backslash
+space - Revisão Bibliográfica} 
+\backslash
+rhead{} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Neste capítulo é apresentada a revisão bibliográfica, com os principais
+ conceitos e definições pertinentes ao entendimento do trabalho realizado.
+ Vale ressaltar que existem poucos trabalhos na literatura relacionados
+ à utilização das SPIONs para remoção do óleo em água.
+ 
+\end_layout
+
+\begin_layout Section
+Derramamento de óleo: efeitos no ambiente 
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Artigos-Tecnologicos"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A atividade petrolífera, ao longo de sua cadeia produtiva, é uma das atividades
+ industriais que oferece risco para o meio ambiente devido às possíveis
+ contaminações dos meios terrestre, aquático e atmosférico por vários compostos
+ orgânicos presentes no óleo.
+ As áreas contaminadas apresentam características tóxicas e fitotóxicas
+ que podem causar problemas a saúde humana, comprometimento da qualidade
+ dos recursos hídricos, restrições ao uso do solo e sérios danos à biodiversidad
+e dos mangues, corais e recifes.
+ Além disso, o derramamento de óleo sobre corpos d'água compromete a luminosidad
+e através da água e a transferência de gás entre a água e o ar, causando
+ impactos graves na vida aquática (DEBS et al., 2019).
+ Os derramamentos de óleo mais comuns em água são os produtos de petróleo,
+ como diesel, gasolina, querosene, gasolina, óleo combustível, solventes,
+ entre outros, mas também é comum os casos de derrame de petróleo bruto,
+ normalmente ocasionados por acidentes de grandes proporções.
+ (PENA et al., 2020, SINGH et al., 2020).
+ 
+\end_layout
+
+\begin_layout Section
+Processos envolvidos em um derramamento de óleo no mar
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Artigos-Cientificos"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A composição do óleo, ao entrar em contato com água, pode sofrer alterações
+ por processos de intemperismos, como, por exemplo, evaporação, adsorção,
+ dispersão, dissolução, biodegradação, entre outros (REYESICARO et al., 2013).
+ O tempo e a intensidade de cada processo podem diferir e depender principalment
+e das condições físicas e características geoquímicas do óleo derramado.
+ Na Figura 3 é apresentado alguns desses processos listados com o período
+ em que ocorrem e tempo correspondente de atuação sobre o derrame (SHOLZ
+ et al., 1999).
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/SHOLZ1.png
+	lyxscale 50
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Relação dos processos naturais atuantes em um derrame de petróleo no mar.
+ A grossura da linha indica a relação da magnitude dos processos entre si.
+ Adaptado de SHOLZ et al., 1999
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Tipos de derrames de óleo segundo a causalidade 
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Critica-aos-Trabalhos-Existentes"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Os derrames de óleo podem levar o mesmo ao contato com a água de variadas
+ maneiras, as quais podem ser classificadas em naturais, antropogênicas
+ e intencionais.
+ 
+\end_layout
+
+\begin_layout Subsection
+Derrames Naturais 
+\end_layout
+
+\begin_layout Standard
+No derrame natural de óleo o principal exemplo é a exsudação do petróleo
+ e gás devido às falhas em rochas selantes (ou capeadoras) dos reservatórios,
+ as quais associadas a falhas estruturais, fornecem caminhos de fluxo até
+ a superfície do assoalho marinho.
+ O termo “infiltração de óleo” é comumente utilizado para designar a liberação
+ natural de petróleo bruto e óleo de alcatrão no assoalho marinho.
+ Estima-se que 47% do óleo adentrando o ambiente marinho tem como origem
+ infiltrações naturais, enquanto que 53% resulta de vazamentos e derrames
+ durante os processos da cadeia produtiva de E&P.
+ (Kvenvolden et al., 2003).
+ Na figura 4 podemos observar um esquemático dos processos de exsudação
+ e o caminho percorrido pelos hidrocarbonetos.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/Bourgault1.png
+	lyxscale 50
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Diagrama esquemático mostrando o caminho percorrido pelo óleo e o gás liberado
+ no oceano por exsudação.
+ Inspirado em ilustração por Jack Cook, Woods Hole Oceanographic Institution,
+ http://www.whoi.edu/oil/natural-oil-seeps.
+ Traduzido e adaptado de Bourgault et al., 2017.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Derrames Antropogênicos 
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Critica-aos-Trabalhos-Existentes-1"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Acidentes em navios-tanques responsáveis pelo transporte do petróleo até
+ a costa, oleodutos, instalações costeiras e em plataformas em alto mar
+ são as principais fontes antropogênicas.
+ (STOUT; WANG, 2007).
+ Outros tipos de fluidos nocivos ao ambiente, juntamente a água oleosa e
+ fluidos de perfuração utilizados pela indústria de E&P são derramados todos
+ os anos em quantidade considerável, sendo ocasionado por incidentes de
+ perda de estanqueidade nas unidades de produção e sondas de perfuração.
+ 
+\end_layout
+
+\begin_layout Standard
+Em um levantamento feito utilizando dados dos Painéis Dinâmicos de Incidentes
+ da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), órgão
+ regulador das atividades que integram as indústrias de petróleo e gás natural
+ e de biocombustíveis no Brasil, foi possível analisar as notificações de
+ incidentes envolvendo a perda de contenção de fluidos utilizados na indústria
+ E&P derramados no período de 2012 a 2022, bem como as instalações origem
+ e o risco associado.
+ Os dados estão expostos nas figuras 5a, 5b e 5c a seguir.
+ As informações dos operadores foram omitidas a fim de preservar dados sigilosos.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/fluidos_especificos.png
+	lyxscale 50
+	width 90text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Gráfico: perda de contenção de fluidos de utilização específica na indústria
+ E&P em m³, no período de 2012 a 2022.
+ Adaptado do Painel Dinâmico de Incidentes da Agência Nacional do Petróleo,
+ Gás Natural e Biocombustíveis (ANP).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/Histograma_derrames.png
+	lyxscale 50
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Gráfico: proporção de origem dos incidentes de perdas de contenção de óleo
+ e gás em ambiente terrestre e em alto mar de 2012 a 2022.
+ Adaptado do Painel Dinâmico de Incidentes da Agência Nacional do Petróleo,
+ Gás Natural e Biocombustíveis (ANP).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/derrames_risco.png
+	lyxscale 50
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Gráfico: proporção de risco associado dos incidentes de perdas de contenção
+ de óleo e gás em ambiente terrestre e em alto mar de 2012 a 2022.
+ Classificação de Risco: Leve: derrame menor de óleo (0-1 m³); Moderado:
+ derrame significante de óleo (1-10 m³); Grave: Derrame maior de óleo (>10m³).
+ Adaptado do Painel Dinâmico de Incidentes da Agência Nacional do Petróleo,
+ Gás Natural e Biocombustíveis (ANP).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Derrames Intencionais
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Por outra perspectiva, as descargas intencionais que que somam despejo de
+ efluentes como esgoto e outras misturas oleosas podem ocorrer devido a
+ lavagem de porões de carga ou ainda pelo descarte de águas produzidas por
+ plataformas em alto mar.
+ (STOUT; WANG, 2007).
+ 
+\end_layout
+
+\begin_layout Standard
+Em países com pouca regulação existe uma subnotificação desse tipo de incidente,
+ ou até mesmo a omissão intencional, causando danos substanciais ao ambiente
+ marinho, sua flora, flora e biomas costeiros.
+ 
+\end_layout
+
+\begin_layout Section
+Métodos de remediação
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Diversas áreas de conhecimento têm desenvolvido meios de remediar o óleo
+ em contato com o solo e com a água para minimizar ou até mesmo eliminar
+ por completo os impactos ocasionados pelo derramamento de óleo.
+ Tradicionalmente, a remediação ocorre através de remoção manual, barreiras,
+ skimmers, queima in situ, remoção mecânica, materiais absorventes, dispersantes
+ químicos, e biorremediação (CHU; PAN, 2012; SINGH et al., 2020).
+ 
+\end_layout
+
+\begin_layout Standard
+Em costões rochosos o método mais utilizado é a remoção manual.
+ Esse método é indicado para locais restritos como fendas, poças e marés
+ e conjunções de rochas, bem como áreas mais extensas como praias (CETESB,
+ 2020).
+ 
+\end_layout
+
+\begin_layout Standard
+Já as barreiras são utilizadas para concentrar, bloquear e/ou direcionar
+ o óleo para áreas menos vulneráveis ou mais favoráveis ao recolhimento
+ do óleo.
+ Existem variados tipos de barreiras com materiais e funcionalidades aumentadas
+ como barreiras absorventes, antifogo, entre outras, escolhidas de acordo
+ com o cenário do derrame, tipo de óleo, condições de mar, etc.
+ A rápida mobilização para lançamento de barreiras é essencial para evitar
+ o escalonamento das áreas atingidas pelo óleo.
+ 
+\end_layout
+
+\begin_layout Standard
+Os skimmers são dispositivos para sucção que flutuam e retiram o óleo da
+ superfície da água.
+ Tanto as barreiras como os skimmers são métodos associados à dispositivos
+ de armazenamento temporário (MIRANDA, ANJOS, MOREIRA, 2014).
+ 
+\end_layout
+
+\begin_layout Standard
+Queima in situ consiste na queima controlada do óleo no local onde ocorreu
+ o vazamento, a partir de substratos combustíveis.
+ Segundo Sarbatly, Krishnaiah e Kamin (2016), esse é o método mais econômico,
+ porém, durante o processo, pode haver dispersão do óleo dependendo da direção
+ do vento e alta emissões de CO2.
+ Adicionalmente, existem alguns fatores limitantes para o uso desse método,
+ tais como: fontes de ignição, segurança da operação e a composição de alguns
+ resíduos que podem afundar em razão da densidade (MIRANDA, ANJOS, MOREIRA,
+ 2014).
+ 
+\end_layout
+
+\begin_layout Standard
+A remoção mecânica é comumente utilizada para recolher o óleo na zona entre
+ marés com auxílios de veículos e máquinas.
+ Esse método pode causar graves danos à comunidade biológica que é removida
+ com a areia.
+ Além disso, o uso de máquina provoca alterações no equilíbrio dinâmico,
+ promove processos erosivo e o peso das máquinas favorece a compactação
+ do substrato (MIRANDA, ANJOS, MOREIRA, 2014).
+ 
+\end_layout
+
+\begin_layout Standard
+O uso de materiais absorventes é considerado um dos métodos mais eficazes
+ devido ao seu baixo custo operacional, alta disponibilidade do material,
+ propriedades de hidrofobicidade, alta capacidade e taxa de absorção e retenção
+ de óleo (CHU; PAN, 2012, SARBATLY et al., 2016).
+ No entanto, Chu e Pan (2012) comentam que, um dos 14 maiores desafios desse
+ método é aumentar a absorção de óleo e a repelência à água para fins de
+ aplicação prática.
+ 
+\end_layout
+
+\begin_layout Standard
+Os dispersantes químicos são produtos que aceleram o processo de dispersão
+ natural quando pulverizados nas manchas de óleo na água.
+ Eles reduzem a tensão superficial da mistura oleosa, contribuindo para
+ a dispersão do óleo em gotículas que ficam em suspensão no meio aquoso.
+ Além disso, o uso de dispersantes reduz a viscosidade do óleo, diminuindo
+ a quantidade de energia necessária para dispersar o óleo na coluna d'água
+ (SHOLZ et al., 1999, MIRANDA, ANJOS, MOREIRA, 2014).
+ 
+\end_layout
+
+\begin_layout Standard
+A biorremediação consiste na adição de substâncias capazes de acelerar o
+ processo de degradação do óleo, podendo ser dividida, basicamente, em dois
+ processos: bioadição - uso de bactérias e outros microrganismos no meio
+ ambiente capazes de degradar o óleo - e bioestimulação - inserção de nutrientes
+ e co-substratos em áreas contaminadas para estimular o crescimento de populaçõe
+s autóctones de organismos (MIRANDA, ANJOS, MOREIRA, 2014, LOPES, MILANELLI,
+ POFFO, 2007).
+ 
+\end_layout
+
+\begin_layout Standard
+Ressalta-se, no entanto, que os métodos de contenção e remoção apresentados
+ até aqui, na maioria das vezes, alcançam somente 20% da quantidade vazada
+ (LOPES, MILANELLI, POFFO, 2007).
+ Singh et al.
+ (2020), ao tratar desse tema, diz que esses métodos não separam completamente
+ o óleo da água.
+ Verifica-se, assim, a necessidade de implementar procedimentos alternativos
+ ou complementares, como é o caso dos métodos que empregam a nanotecnologia.
+ 
+\end_layout
+
+\begin_layout Section
+Nanotecnologia 
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A nanotecnologia vem, cada vez mais, sendo utilizada em diversas áreas da
+ ciência que lida com a concepção, desenvolvimento e fabricação de materiais
+ em nanoescala em dimensão de 1-100 nm (SINGH et al., 2020).
+ Em particular, as nanopartículas (NPs) de óxido de ferro com diferentes
+ tamanhos e morfologia têm sido utilizadas em medicina (HERVAULT; THANH,
+ 2014), biomedicina (BRITOS et al., 2019; GAO et al., 2009), catálise (ROSSI
+ et al., 2014), em armazenamentos magnéticos (REID et al., 2018), entre outras.
+ 
+\end_layout
+
+\begin_layout Standard
+Na área de remediação de óleo diversas pesquisas têm sido desenvolvidas
+ devido aos resultados promissores da alta capacidade de remoção de contaminante
+s da água.
+ Nanomateriais como aerogéis, espumas, esponjas e polímeros revestidos com
+ nanopartículas são alguns exemplos de como essa tecnologia vem sendo estudada
+ para remoção do óleo de água e solos (DEBS et al., 2019).
+ 
+\end_layout
+
+\begin_layout Standard
+Debs et al.
+ (2019) também aponta que a associação de nanopartículas magnéticas com
+ outras técnicas já conhecidas tornou-se uma nova e interessante alternativa
+ a ser investigada, uma vez que são econômicas, podem ser facilmente produzidas
+ e apresentam boa biocompatibilidade.
+ 
+\end_layout
+
+\begin_layout Standard
+Uma das vantagens dessa tecnologia é que o comportamento superparamagnético
+ permite a movimentação e recuperação do material magnético da solução pela
+ aplicação de um campo magnético gerado por indutores magnéticos (em larga
+ escala) ou ímãs (em escala de laboratório).
+ Em adição, as nanopartículas magnéticas são quimicamente estáveis e naturalment
+e presentes na natureza o que se leva a acreditar a não serem perigosas,
+ tóxicas e nem cancerígenas.
+ 
+\end_layout
+
+\begin_layout Standard
+No estudo realizado por Calcagnile et al.
+ (2012), utilizou-se espumas de poliuretano funcionalizadas com nanopartículas
+ de óxido de ferro e partículas de politetrafluoroetileno para separação
+ de óleo da água.
+ Os autores processaram a espuma com repelente de água e absorvente de óleo,
+ verificando que a funcionalização da superfície da espuma tratada com nanopartí
+culas de óxido de ferro aumenta significativamente a velocidade de absorção
+ do óleo.
+ Os autores testaram o material com uma amostra de óleo mineral e chegaram
+ a absorver vezes o peso inicial da espuma.
+ Além disso, as espumas funcionalizadas também exibem capacidade magnética,
+ facilitando, como pode ser observado na Figura 6.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/Figura6.png
+	lyxscale 50
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+(a) Óleo colorido na superfície da água em uma placa de Petri.
+ (b,c) Remoção subsequente do óleo pela amostra da espuma de poliuretano
+ funcionalizadas com nanopartículas de óxido de ferro acionada magneticamente.
+ (d) Superfície da água limpa após o processo.
+ Adaptado de Calcagnile et al.
+ (2012).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Yoon et al.
+ (2012) estudaram e caracterizaram nanopartículas superparamagnéticas de
+ óxido de ferro com casca de copolímero de ácido acrílico.
+ O material proposto pelos autores foi utilizado em uma emulsão de dodecano
+ e água, sendo constatado uma significante redução na tensão superficial
+ da interface indicando adsorção de nanopartículas e interação entre as
+ moléculas de óleo e água, como apresentado na Figura 7.
+ Os autores concluíram que essa habilidade possui aplicações práticas em
+ áreas de recuperação avançada de petróleo e para remoção de óleo emulsionado
+ em água.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/Figura7.png
+	lyxscale 50
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Evolução com o tempo da emulsão de dodecano e água após a adição de nanopartícul
+as superparamagnéticas de óxido de ferro com casca copolímero.
+ Adaptado de Yoon et al.
+ (2012).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sanders et al.
+ (2013) abordam a utilização de um nanomaterial híbrido que compreende nanopartí
+culas magnéticas inorgânicas e camadas de polímeros anfifílicos que possuem
+ maior capacidade de sorção de poluentes de hidrocarbonetos.
+ Os autores testaram o material com uma amostra de petróleo bruto e verificaram
+ a capacidade eficiente de sorção do óleo, como pode ser observado na Figura
+ 8.
+ O material, quando introduzido em um ambiente aquoso poluído com petróleo
+ bruto, foi capaz de sorver 10 vezes o seu peso inicial peso.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/Figura8.png
+	lyxscale 50
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+(a) Frasco contendo água contaminada com petróleo bruto.
+ (b) Frasco após sorção de óleo por nanomaterial híbrido que compreende
+ nanopartículas magnéticas inorgânicas e camadas de polímeros anfifílicos.
+ (c) Comparação da vista superior de nanopartículas carregadas de petróleo
+ bruto capturado contra a parede do frasco por um ímã externo (topo) e água
+ contaminada com petróleo bruto (parte inferior).
+ Adaptado de Sanders et al.
+ (2013).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Foi estudado por Wang et al.
+ (2013) nanotubos de carbono de paredes múltiplas decorados com nanopartículas
+ de magnetita na separação de óleo em água.
+ O material foi testado em uma emulsão de diesel com água, como ilustra
+ a Figura 9.
+ Os autores relataram que a remoção de óleo é feita por meio de duas etapas,
+ em que os nanotubos são primeiro dispersos na interface óleo-água e, em
+ seguida, as gotículas de óleo são arrastadas para fora da água por um ímã.
+ Após a separação, os nanotubos de carbono podem ser rapidamente recuperados
+ por meio de uma lavagem com etanol, recuperando o óleo separado também.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/Figura9.png
+	lyxscale 50
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+(a) Emulsão de óleo em água.
+ (b) Mistura nanotubos de carbono de paredes múltiplas decorados com nanopartícu
+las de magnetita com a emulsão óleo-água.
+ (b) Remoção dos nanotubos juntamente com óleo retido por um ímã na lateral
+ do frasco.
+ Adaptado de Wang et al.
+ (2013).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Vengsarkar et al.
+ (2014) preparou nanopartículas de óxido de ferro que foram funcionalizadas
+ com estearoil lactilato de sódio para verificar a estabilização de emulsões
+ de óleo em água preparadas usando dodecano.
+ As nanopartículas revestidas com dupla camada foram capazes de estabilizar
+ uma emulsão óleo em água, mostrando um potencial de aplicação na remediação
+ e remoção de óleo derramado (Figura 10).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/Figura10.png
+	lyxscale 50
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Formação estável de emulsão de óleo em água usando nanopartículas de óxido
+ de ferro revestidas com dupla camada funcionalizadas com estearoil lactilato
+ de sódio.
+ Adaptado de Vengsarkar et al.
+ (2014).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Foi preparado por Raj e Joy (2015) um nanocompósito adsorvente magnético
+ usando carvão ativado à base de casca de coco e nanopartículas de óxido
+ de ferro.
+ Usou-se dois tipos de óleos de motor, um de baixa viscosidade e um de alta
+ viscosidade, verificando em ambos os casos que o material proposto pelos
+ autores apresenta boa capacidade de retenção de óleo, um grama do material
+ é capaz de reter 12,93 g de óleo de baixa viscosidade e 7,65 g de óleo
+ alta viscosidade, como apresentado na Figura 11.
+ Foi verificado que o material pode ser reutilizado após a recuperação por
+ tratamento térmico ou por extração com solvente.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/Figura11.png
+	lyxscale 50
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Retenção do óleo em função do tempo usando nanocompósito adsorvente magnético.
+ Adaptado de Raj e Joy (2015).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Nanopartículas superparamagnéticas de Fe3O4 e nanocompósitos com β - ciclodextri
+na foram sintetizados por Kumar et al.
+ (2015).
+ Os autores verificaram boa performance de remediação usando óleo lubrificante,
+ sendo constatado capacidade de retenção de óleo igual a 7,2 g/g de nanocompósit
+o.
+ O material pode ser reutilizado após a lavagem com etanol, como ilustrado
+ na Figura 12.
+ Foi pontuado que após 5 ciclos, a recuperação de óleo permaneceu estável,
+ caindo de 7,2 g/g para 6,1 g/g.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/Figura12.png
+	lyxscale 50
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Separação do nanomaterial por extração com etanol.
+ Adaptado de Kumar et al.
+ (2015).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Jiang et al.
+ (2015) produziram um composto magnético nanofibroso constituído de dois
+ componentes poliméricos diferentes: poliestireno (PS) e polivinilideno
+ (PVD).
+ Quatro tipos de óleo foram usados durante os experimentos: sunflower oriundo
+ da Rio Santo, soybean da Beksul, óleo de motor e óleo diesel.
+ Foi observado uma capacidade de sorção entre 35 a 40 g/g para os quatro
+ tipos de óleo sugerindo um grande potencial para uso em remediação ambiental
+ especificamente na remoção ou separação do óleo da superfície da água.
+ 
+\end_layout
+
+\begin_layout Standard
+GAO et al.
+ (2016) abordou a síntese e avaliação de nanocompósitos de óxido de ferro
+ (CNT) para separação óleo em água com diferentes cargas de nanopartículas
+ de óxido de ferro.
+ A capacidade de retenção de óleo foi de 7,7 g/g de nanocompósito para a
+ gasolina.
+ 
+\end_layout
+
+\begin_layout Standard
+Ghobashy e Elhady.
+ (2017) investigou o efeito de pellets de polietileno e Fe3O4 na separação
+ óleo em água.
+ Conforme mostrado na Figura 13, os pellets magnetizados foram adicionados
+ em uma placa de petri contendo uma mistura de água e resíduos de óleo de
+ motor.
+ É possível observar que logo após a inserção dos pellets na mistura óleo-água,
+ os pellets flutuam na superfície, toca o óleo e o adsorve da mistura rapidament
+e.
+ A remoção do óleo adsorvido pode ser feita através de imã.
+ Foi observado uma remoção de 98% do óleo após 130 segundos.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/Figura13.png
+	lyxscale 50
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Demonstração da capacidade de magnetizar dos pellets magnetizados para a
+ remoção de óleo.
+ Fonte: (GHOBASHY; ELHADY,2017).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Foi preparado por Abdullah et al.
+ (2017) nanopartículas hidrofóbicas magnéticas monodispersas para coleta
+ de óleo na superfície da água.
+ Petróleo pesado árabe produzido no campo petrolífero na Arábia Saudita
+ e água do mar coletada do golfo arábico ocidental na costa saudita foram
+ usados para simular um derramamento de óleo.
+ O experimento em pequena escala, sendo 1 mL de óleo disperso em 250 mL
+ de água, mostrou alta eficiência de remoção (>80%) com baixa concentração
+ de nanomateriais em relação ao tamanho do derramamento de óleo cru.
+\end_layout
+
+\begin_layout Standard
+Foi preparado por Xu et al.
+ (2018) um aerogel de álcool polivinílico (PVA)/celulose nanofibrilada (CNF)
+ tratado com metiltriclorosilano (MTS) e dispersado nanopartículas de Fe3O4
+ na superfície conferindo, assim, característica magnética.
+ O material foi adicionado em diversas misturas de água com óleo, como ilustra
+ a Figura 14, verificando a capacidade de absorção de 59 a 136 vezes o seu
+ próprio peso.
+ Além disso, a capacidade de absorção permaneceu estável após 30 ciclos.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/Figura14.png
+	lyxscale 50
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Capacidade de absorção de aerogel magnetizado para diferentes misturas de
+ óleo e água.
+ Adaptado de Xu et al.
+ (2018).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+O projeto de síntese e avaliação laboratorial de nanocompósitos Fe3O4-SiO2
+ foram introduzidos por Kamgar et al.
+ (2018) para coleta do óleo da superfície da água convertendo óleo em um
+ ferrofluido (óleo + nanopartícula magnética).
+ Gasolina, óleo bruto e querosene foram testados com o nanomaterial, verificando
+ que a capacidade de absorção do óleo bruto é maior do que os demais óleos
+ testados.
+ Para movimento do ferrofluido foi utilizado um campo magnético gerado a
+ partir um eletroímã que conseguiu atrair o ferrofluido em questão de segundos
+ como observado na Figura 15.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/Figura15.png
+	lyxscale 50
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Recuperação do óleo cru da superfície da água utilizando nanocompósitos
+ Fe3O4-SiO2.
+ Fonte: (KAMGAR et al., 2018).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Abdullah et al.
+ (2019) aborda a utilização de nanomateriais de magnetita ecologicamente
+ corretos (MNMs) para uma coleta eficiente de derramamento de óleo.
+ Os biocomponentes foram extraídos de Matricaria aurea (MAE) e Ochradenus
+ baccatus (OBE).
+ Ambos nanomateriais (MAE-MNMs e OBE-MNMs) foram testados com um óleo bruto
+ pesado árabe, verificando uma recuperação de 92% e 88%, respectivamente.
+ Foi observado uma reutilização eficaz dos nanomateriais por pelo menos
+ 5 ciclos, como mostrado na Figura 16.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/Figura16.png
+	lyxscale 50
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Eficiência da recuperação de óleo por ciclo para MAE-MNMs e OBE-MNMs.
+ Adaptado de Abdullah et al.
+ (2019).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Debs et al.
+ (2019) aborda o uso de nanopartículas de magnetita e de bionanocompósito
+ para remoção de óleo (óleo de motor novo, mistura de óleo de motor usado
+ e óleo de 28 °API) da água.
+ Ambos os materiais magnéticos foram capazes de remover os diferentes tipos
+ de óleos da água, tendo uma recuperação entre 55 e 89%.
+ 
+\end_layout
+
+\begin_layout Standard
+Em um estudo proposto por Kim et al.
+ (2021), foi relatado um tipo de absorvente magnético à base de poliolefina
+ com desempenho de inchamento e propriedade magnética para remoção de óleo
+ derramado e coleta eficiente dos sorventes embebidos em óleo.
+ Os autores observaram alta absorção de óleo cru (24 g/g).
+ Além disso, também foi proposto um arrasto magnético com uma velocidade
+ e altura constante, como observado na Figura 17.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/Figura17.png
+	lyxscale 50
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+O sistema de arrasto magnético construído por bomba de seringa com velocidade
+ de arrasto constante do ímã Adaptado de Kim et al.
+ (2021).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Analisando os trabalhos apresentados optou-se por realizar uma análise SWOT
+ (uma técnica para auxiliar a identificar forças, fraquezas, oportunidades
+ e ameaças) relacionadas à aplicação de nanopartículas de óxido de ferro
+ para a remediação do óleo com o intuito de eliminar as fraquezas e ameaças
+ e aproveitar as oportunidades acerca do tema para aplicar no desenvolvimento
+ desta pesquisa.
+ Essa análise está apresenta na Figura 18.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/Figura18.png
+	lyxscale 50
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Análise SWOT dos trabalhos apresentado da literatura sobre o uso de nanopartícul
+as para remoção do óleo.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A partir da Figura 18, pode-se ressaltar que ainda existe uma necessidade
+ de estudos envolvendo nanopartículas para remediação de áreas impactadas
+ com petróleo, considerando o volume de óleo derramado (os estudos da literatura
+ são em escala de bancada), o tipo de óleo (os estudos existentes utilizam
+ derivados do petróleo ou não levam em conta o API do óleo), a salinidade
+ da água do mar (os estudos encontrados utilizam água destilada) e o tipo
+ de SPIONs aplicada (boa parte dos estudos utilizam apenas um nanomaterial).
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Em hipótese alguma coloque neste capítulo conceitos que já estão nos livros;
+ 
+\end_layout
+
+\begin_layout Plain Layout
+é muito chato ter de ler os mesmos conceitos centenas e centenas de vezes,
+ pense na banca.
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Para a banca o que importa é:
+\end_layout
+
+\begin_layout Plain Layout
+- escopo do problema e objetivos;
+\end_layout
+
+\begin_layout Plain Layout
+- revisão bibliográfica ->artigos recentes
+\end_layout
+
+\begin_layout Plain Layout
+- metodologia -> baseada nos outros autores
+\end_layout
+
+\begin_layout Plain Layout
+- seus resultados
+\end_layout
+
+\begin_layout Plain Layout
+- suas conclusões
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Lembre-se os professores do LENEP são, em sua maioria velhos, não tem mais
+ paciência para ler definições básicas!!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

@@ -1,7 +1,9 @@
-#LyX 2.1 created this file. For more info see http://www.lyx.org/
-\lyxformat 474
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass abntex2
 \begin_preamble
 \usepackage{fancyhdr}
@@ -20,7 +22,6 @@
 \usepackage{indentfirst}	% Indenta o primeiro parágrafo de cada seção.
 \usepackage{color}	% Controle das cores
 \usepackage{graphicx}	% Inclusão de gráficos
-\usepackage{microtype} 	% para melhorias de justificação
 % ---
 
 % ---
@@ -67,16 +68,18 @@ Citado #1 vezes nas páginas #2.%
 \language_package default
 \inputencoding utf8
 \fontencoding global
-\font_roman default
-\font_sans default
-\font_typewriter default
-\font_math auto
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype true
+\use_dash_ligatures true
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -119,6 +122,7 @@ Citado #1 vezes nas páginas #2.%
 \suppress_date false
 \justification true
 \use_refstyle 0
+\use_minted 0
 \index Index
 \shortcut idx
 \color #008000
@@ -127,7 +131,10 @@ Citado #1 vezes nas páginas #2.%
 \tocdepth 3
 \paragraph_separation indent
 \paragraph_indentation default
-\quotes_language english
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
 \papercolumns 1
 \papersides 1
 \paperpagestyle companion
@@ -143,8 +150,12 @@ Citado #1 vezes nas páginas #2.%
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
-filename "Cap0-Capa.lyx"
+filename "Cap0-Capa - Copia.lyx"
 
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -178,6 +189,10 @@ LatexCommand tableofcontents
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -204,6 +219,10 @@ rhead{}
 \begin_layout Standard
 \begin_inset FloatList figure
 
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -261,7 +280,7 @@ filename "Cap-ResumoAbstract.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
-filename "Cap1-Introducao.lyx"
+filename "Cap1-Introducao - Copia.lyx"
 
 \end_inset
 
@@ -271,7 +290,7 @@ filename "Cap1-Introducao.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
-filename "Cap2-RevisaoBibliografica.lyx"
+filename "Cap2-RevisaoBibliografica - Copia.lyx"
 
 \end_inset
 
@@ -281,16 +300,6 @@ filename "Cap2-RevisaoBibliografica.lyx"
 \begin_layout Standard
 \begin_inset Note Note
 status open
-
-\begin_layout Plain Layout
-\begin_inset CommandInset include
-LatexCommand include
-filename "Cap3-RevisaoDeModelos.lyx"
-
-\end_inset
-
-
-\end_layout
 
 \begin_layout Plain Layout
 Acredite, 
@@ -314,7 +323,7 @@ io/modelagem matemática-computacional não vai ficar bom o suficiente; os
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
-filename "Cap4-Metodologia.lyx"
+filename "Cap4-Metodologia - Copia.lyx"
 
 \end_inset
 
@@ -322,30 +331,7 @@ filename "Cap4-Metodologia.lyx"
 \end_layout
 
 \begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand include
-filename "Cap5-Desenvolvimento.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand include
-filename "Cap6-Resultados.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand include
-filename "Cap7-Conclusoes.lyx"
-
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -376,6 +362,7 @@ rhead{}
 \begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
+btprint "btPrintCited"
 bibfiles "bibliografia"
 options "abntex2-alf"
 
@@ -386,27 +373,11 @@ options "abntex2-alf"
 
 \begin_layout Standard
 \start_of_appendix
-\noindent
-\begin_inset CommandInset include
-LatexCommand include
-filename "Cap-Apendice_A.lyx"
-
-\end_inset
-
-
-\begin_inset CommandInset include
-LatexCommand include
-filename "Cap-Apendice_B.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset CommandInset index_print
 LatexCommand printindex
 type "idx"
+name "Index"
+literal "true"
 
 \end_inset
 

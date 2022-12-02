@@ -1,0 +1,188 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass abntex2
+\use_default_options true
+\maintain_unincluded_children false
+\language brazilian
+\language_package default
+\inputencoding utf8
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Metodologia
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Metodologia
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "chap:Metodologia"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+lhead{
+\backslash
+thechapter-Metodologia} 
+\backslash
+rhead{
+\backslash
+thepage} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+No presente capítulo são descritos os procedimentos utilizados para formulação
+ do experimento de tratamento do precursor vegetal com SPION’s e da embebição
+ do mesmo na mistura óleo/água salgada.
+ A montagem do experimento está em fase de desenvolvimento e testes, a fim
+ de determinar sua reprodutibilidade e controle das variáveis envolvidas
+ no processo, portanto ressalta-se que esse capítulo se encontra em construção.
+ 
+\end_layout
+
+\begin_layout Section
+AMOSTRAS 
+\end_layout
+
+\begin_layout Standard
+As amostras de água utilizadas nos experimentos de simulação de derrame
+ serão coletadas na cidade de Macaé e adequadamente armazenadas para posterior
+ caracterização.
+ Duas amostras de óleo serão utilizadas nos experimentos, provenientes de
+ bacias brasileiras com diferente grau API.
+ Tanto as amostras de água quanto as de óleo serão previamente caracterizadas
+ antes do uso nos experimentos.
+ A caracterização será feita utilizando diferentes técnicas analíticas.
+ 
+\end_layout
+
+\begin_layout Section
+PREPARO E MONTAGEM DO EXPERIMENTO DE ABSORÇÃO DO ÓLEO 
+\end_layout
+
+\begin_layout Standard
+Serão considerados dois tipos de nanopartículas SPIONs para avaliar o potencial
+ de remediação desses nanomateriais.
+ O tempo de monitoramento do experimento e a forma como as amostras serão
+ tratadas serão definidos considerando as características de cada óleo.
+ No presente momento está desconsiderada a utilização de métodos magnéticos
+ para a manipulação e recuperação das SPION’s dado que em escala laboratorial
+ julgou-se fora da realidade a influência de um campo magnético forte sobre
+ as amostras quando comparadas as condições reais de um derrame de óleo.
+ 
+\end_layout
+
+\begin_layout Section
+ANÁLISE DOS ÓLEOS 
+\end_layout
+
+\begin_layout Standard
+As amostras de óleo coletadas no experimento de simulação serão analisadas
+ por cromatografia gasosa com detector de ionização por chama (GC-FID),
+ cromatografia gasosa acoplada a espectrometria de massas (GC-MS) e por
+ espectrometria de massas de ressonância ciclotrônica de íons por transformada
+ de Fourier (FT-ICR MS).
+ 
+\end_layout
+
+\end_body
+\end_document
