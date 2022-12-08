@@ -5,6 +5,7 @@
 \save_transient_properties true
 \origin unavailable
 \textclass abntex2
+\options latin9, utf8
 \use_default_options true
 \maintain_unincluded_children false
 \language brazilian
@@ -125,7 +126,15 @@ pagenumbering{arabic}
 \begin_layout Standard
 O derrame de óleo no meio ambiente, e especialmente ambiente no ambiente
  marinho, vem causando uma crise de danos ecológicos graves.
- (CHU; PAN, 2012).
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Chu2012"
+literal "false"
+
+\end_inset
+
+.
  Os derrames de óleo são comuns em ambiente marinho, e muitos derrames considera
 dos pequenos não são efetivamente reportados.
  Dentre as fontes causais de derrames estão inclusas descargas de óleo cru
@@ -141,7 +150,15 @@ Os derrames de óleo podem ocorrer por muitas razões durante os processos
  de exploração, refino e transporte, tais como sobrepressurização de vasos,
  falha mecânica, corrosão de linhas de tubos, colisões de embarcações, entre
  outros fatores que podem levar a falhas na estanqueidade do sistema fechado.
- (Lee et al., 2015).
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Lee2016"
+literal "false"
+
+\end_inset
+
+.
  
 \end_layout
 
@@ -155,12 +172,28 @@ No ambiente marinho o óleo pode entrar em contato com a água de forma natural,
  Acidentes em navios-tanques responsáveis pelo transporte do petróleo até
  a costa, oleodutos, instalações costeiras e em plataformas em alto mar
  são as principais fontes antropogênicas.
- (STOUT; WANG, 2007).
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Stout2007"
+literal "false"
+
+\end_inset
+
+.
  Por outra perspectiva, as descargas intencionais que que somam despejo
  de efluentes como esgoto e outras misturas oleosas podem ocorrer devido
  a lavagem de porões de carga ou ainda pelo descarte de águas produzidas
  por plataformas em alto mar.
- (STOUT; WANG, 2007).
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Stout2007"
+literal "false"
+
+\end_inset
+
+.
  
 \end_layout
 
@@ -170,7 +203,14 @@ O estudo de derrames de óleo, de forma geral e em águas offshore, tem ganhado
  do México em 2010, bem como o vazamento em grande escala que assolou a
  costa brasileira, mapeado por mais de 3000 km de litoral e atingindo mais
  de 980 praias apenas quatro meses após a primeira observação.
- (SOARES et al.,2020).
+\begin_inset CommandInset citation
+LatexCommand cite
+key "OliveiraSoares2020"
+literal "false"
+
+\end_inset
+
+.
  Outros acidentes de derrames de óleos marinhos pelo mundo são uma das maiores
  fontes de poluição, causando gigantescos danos ambientais e destruição
  econômica.
@@ -245,8 +285,26 @@ De acordo com esse relatório, houve uma diminuição de 95% no número de acide
  Apesar dessa queda, os vazamentos de óleo continuam acontecendo e a quantidade
  em contato com a água é preocupante.
  Só em 2019, mais de 1000 toneladas de óleo foram computadas, sendo um vazamento
- em larga escala (>700 toneladas) e dois em média escala (7-700 toneladas)
- (ITOPF, 2020).
+ em larga escala (>700 toneladas) e dois em média escala (7-700 toneladas)(Figur
+a 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig: Resumo-dos-20"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+) 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "ITOPF2021"
+literal "false"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
@@ -274,7 +332,7 @@ status open
 Tendência global de derramamento de óleo
 \begin_inset CommandInset label
 LatexCommand label
-name "fig:Resumo-dos-20"
+name "fig: Resumo-dos-20"
 
 \end_inset
 
@@ -292,13 +350,25 @@ name "fig:Resumo-dos-20"
 \end_layout
 
 \begin_layout Standard
+
+\end_layout
+
+\begin_layout Standard
 Diversas técnicas podem ser utilizadas no controle de acidentes, como uso
  de barreiras físicas de contenção da fase contínua do óleo, uso de skimmers
  na separação do óleo contido na superfície do líquido e dispersantes, que
  são exemplos comuns juntamente com a queima in-situ.
- Sarbatly et al., (2016) define a queima in situ como o método mais econômico,
- no entanto, durante o processo pode ocorrer a dispersão do óleo dependendo
- do comportamento dos ventos e a alta emissão de gases estufa como CO2.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Sarbatly2016"
+literal "false"
+
+\end_inset
+
+ define a queima in situ como o método mais econômico, no entanto, durante
+ o processo pode ocorrer a dispersão do óleo dependendo do comportamento
+ dos ventos e a alta emissão de gases estufa como CO2.
  No entanto, devido a crescente preocupação da indústria e seus agentes
  reguladores na busca da utilização de práticas mais sustentáveis e econômicas
  e com menores danos colaterais de cunho ambiental, outras técnicas como
@@ -309,10 +379,25 @@ Diversas técnicas podem ser utilizadas no controle de acidentes, como uso
  pois possui baixo custo operacional de implementação, alta disponibilidade
  dos materiais utilizados, propriedades de hidrofobicidade, absorção e de
  retenção de óleo, entre outros.
- (SARBATLY et al., 2016).
- Chu e Pan (2012) comentam que o principal desafio de utilizar absorvente
- é aumentar a absorção de óleo e a repelência à água para fins de aplicação
- prática.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Sarbatly2016"
+literal "false"
+
+\end_inset
+
+.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Chu2012"
+literal "false"
+
+\end_inset
+
+ comentam que o principal desafio de utilizar absorvente é aumentar a absorção
+ de óleo e a repelência à água para fins de aplicação prática.
  
 \end_layout
 
@@ -328,7 +413,15 @@ Sendo assim cada vez mais áreas de pesquisa têm surgido para estudar maneiras
  apresentado ótimos resultados na remoção do óleo da água devido, principalmente
 , ao tamanho da partícula, natureza estável, propriedades super-paramagnéticas
  e a rápida resposta ao campo magnético, além de sua boa dispersão em óleos
- (DEBS et al., 2019, SINGH et al., 2020).
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Debs2019"
+literal "false"
+
+\end_inset
+
+.
  Nesse paradigma de resolução do problema, o desenvolvimento de materiais
  que buscam absorver o óleo disperso em água tem sua importância elevada.
  
@@ -342,7 +435,15 @@ Segundo Alabresm et al., 2018, o uso de nanopartículas (NP’s) de material
  óleo em porcentagens altas de 80% a 100% de recuperação de compostos orgânicos
  voláteis (VOC’s) em um curto período de uma hora, e de mais de 50% (com
  p < 0,05) da recuperação de compostos orgânicos semi-voláteis em períodos
- de até 48 horas (Alabresm et al., 2018).
+ de até 48 horas 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Alabresm2018"
+literal "false"
+
+\end_inset
+
+.
  No entanto, se torna interessante o levantamento da eficiência e interação
  no uso dessas técnicas, quando aplicadas em água em condições de salinidade
  semelhantes ao ambiente marinho, efeito pouco estudado até o momento, sendo
@@ -359,7 +460,15 @@ Segundo Alabresm et al., 2018, o uso de nanopartículas (NP’s) de material
 A nanotecnologia está se provando como uma ferramenta valiosa na limpeza
  de derrames de óleo ou vazamentos em água, utilizando nanomateriais magnéticos
  tais como nanopartículas de óxido de ferro superparamagnéticas funcionalizadas
- (SPION’s) (Singh et al., 2020).
+ (SPION’s) 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Singh2020"
+literal "false"
+
+\end_inset
+
+.
  
 \end_layout
 
@@ -415,8 +524,7 @@ O objetivo geral deste trabalho é realizar o estudo da eficiência de absorçã
 \end_layout
 
 \begin_layout Standard
-– Avaliar possível utilização do tratamento em novo fluido aquoso base glicerina
- bruta.
+– Avaliar possível utilização do tratamento em derrames de petróleo.
  
 \end_layout
 

@@ -61,7 +61,7 @@ Citado #1 vezes nas páginas #2.%
 % Controle do espaçamento entre um parágrafo e outro:
 \setlength{\parskip}{0.2cm}  % tente também \onelineskip
 \end_preamble
-\options 12pt, openright, oneside, a4paper, english,  spanish, brazil
+\options 12pt, openright, oneside, a4paper, english,  spanish, brazil, latin9, utf8
 \use_default_options true
 \maintain_unincluded_children false
 \language brazilian
@@ -328,9 +328,36 @@ filename "Cap4-Metodologia - Copia.lyx"
 \end_inset
 
 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset include
+LatexCommand include
+filename "Cap5-Desenvolvimento.lyx"
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand include
+filename "Cap6-Resultados.lyx"
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand include
+filename "Cap7-Conclusoes.lyx"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Standard
+\end_inset
+
+
 \begin_inset Separator latexpar
 \end_inset
 
@@ -363,7 +390,7 @@ rhead{}
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 btprint "btPrintCited"
-bibfiles "bibliografia"
+bibfiles "bibliografiaverso2"
 options "abntex2-alf"
 
 \end_inset

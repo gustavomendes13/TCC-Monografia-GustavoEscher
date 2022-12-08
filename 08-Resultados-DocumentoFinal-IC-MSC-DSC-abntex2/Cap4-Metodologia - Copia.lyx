@@ -5,6 +5,7 @@
 \save_transient_properties true
 \origin unavailable
 \textclass abntex2
+\options latin9, utf8
 \use_default_options true
 \maintain_unincluded_children false
 \language brazilian

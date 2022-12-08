@@ -99,6 +99,10 @@ name "cha:Revisão-Bibliográfica"
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -112,7 +116,14 @@ thechapter
 \backslash
 space - Revisão Bibliográfica} 
 \backslash
-rhead{} 
+rhead{
+\backslash
+thepage} 
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -140,13 +151,6 @@ name "sec:Artigos-Tecnologicos"
 \end_layout
 
 \begin_layout Standard
-\begin_inset space \thinspace{}
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 A atividade petrolífera, ao longo de sua cadeia produtiva, é uma das atividades
  industriais que oferece risco para o meio ambiente devido às possíveis
  contaminações dos meios terrestre, aquático e atmosférico por vários compostos
@@ -157,12 +161,36 @@ A atividade petrolífera, ao longo de sua cadeia produtiva, é uma das atividade
 e dos mangues, corais e recifes.
  Além disso, o derramamento de óleo sobre corpos d'água compromete a luminosidad
 e através da água e a transferência de gás entre a água e o ar, causando
- impactos graves na vida aquática (DEBS et al., 2019).
+ impactos graves na vida aquática 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Debs2019"
+literal "false"
+
+\end_inset
+
+.
  Os derramamentos de óleo mais comuns em água são os produtos de petróleo,
  como diesel, gasolina, querosene, gasolina, óleo combustível, solventes,
  entre outros, mas também é comum os casos de derrame de petróleo bruto,
  normalmente ocasionados por acidentes de grandes proporções.
- (PENA et al., 2020, SINGH et al., 2020).
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Pena2020"
+literal "false"
+
+\end_inset
+
+, 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Singh2020"
+literal "false"
+
+\end_inset
+
+.
  
 \end_layout
 
@@ -178,21 +206,39 @@ name "sec:Artigos-Cientificos"
 \end_layout
 
 \begin_layout Standard
-\begin_inset space \thinspace{}
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 A composição do óleo, ao entrar em contato com água, pode sofrer alterações
  por processos de intemperismos, como, por exemplo, evaporação, adsorção,
- dispersão, dissolução, biodegradação, entre outros (REYESICARO et al., 2013).
+ dispersão, dissolução, biodegradação, entre outros 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Reyes2014"
+literal "false"
+
+\end_inset
+
+.
  O tempo e a intensidade de cada processo podem diferir e depender principalment
 e das condições físicas e características geoquímicas do óleo derramado.
- Na Figura 3 é apresentado alguns desses processos listados com o período
- em que ocorrem e tempo correspondente de atuação sobre o derrame (SHOLZ
- et al., 1999).
+ Na Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Relação-dos-processos"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ é apresentado alguns desses processos listados com o período em que ocorrem
+ e tempo correspondente de atuação sobre o derrame 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SHOLZ1999"
+literal "false"
+
+\end_inset
+
+.
  
 \end_layout
 
@@ -220,7 +266,14 @@ status open
 \begin_layout Plain Layout
 Relação dos processos naturais atuantes em um derrame de petróleo no mar.
  A grossura da linha indica a relação da magnitude dos processos entre si.
- Adaptado de SHOLZ et al., 1999
+ Adaptado de SHOLZ et al., 1999.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Relação-dos-processos"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -239,13 +292,6 @@ Tipos de derrames de óleo segundo a causalidade
 LatexCommand label
 name "sec:Critica-aos-Trabalhos-Existentes"
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset space \thinspace{}
 \end_inset
 
 
@@ -272,9 +318,27 @@ No derrame natural de óleo o principal exemplo é a exsudação do petróleo
  Estima-se que 47% do óleo adentrando o ambiente marinho tem como origem
  infiltrações naturais, enquanto que 53% resulta de vazamentos e derrames
  durante os processos da cadeia produtiva de E&P.
- (Kvenvolden et al., 2003).
- Na figura 4 podemos observar um esquemático dos processos de exsudação
- e o caminho percorrido pelos hidrocarbonetos.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Kvenvolden2003"
+literal "false"
+
+\end_inset
+
+.
+ Na figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Diagrama-esquemático-mostrando"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ podemos observar um esquemático dos processos de exsudação e o caminho
+ percorrido pelos hidrocarbonetos.
  
 \end_layout
 
@@ -304,7 +368,22 @@ Diagrama esquemático mostrando o caminho percorrido pelo óleo e o gás liberad
  no oceano por exsudação.
  Inspirado em ilustração por Jack Cook, Woods Hole Oceanographic Institution,
  http://www.whoi.edu/oil/natural-oil-seeps.
- Traduzido e adaptado de Bourgault et al., 2017.
+ Traduzido e adaptado de 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Bourgault2017"
+literal "false"
+
+\end_inset
+
+.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Diagrama-esquemático-mostrando"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -329,17 +408,18 @@ name "sec:Critica-aos-Trabalhos-Existentes-1"
 \end_layout
 
 \begin_layout Standard
-\begin_inset space \thinspace{}
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 Acidentes em navios-tanques responsáveis pelo transporte do petróleo até
  a costa, oleodutos, instalações costeiras e em plataformas em alto mar
  são as principais fontes antropogênicas.
- (STOUT; WANG, 2007).
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Stout2007"
+literal "false"
+
+\end_inset
+
+.
  Outros tipos de fluidos nocivos ao ambiente, juntamente a água oleosa e
  fluidos de perfuração utilizados pela indústria de E&P são derramados todos
  os anos em quantidade considerável, sendo ocasionado por incidentes de
@@ -355,7 +435,37 @@ Em um levantamento feito utilizando dados dos Painéis Dinâmicos de Incidentes
  incidentes envolvendo a perda de contenção de fluidos utilizados na indústria
  E&P derramados no período de 2012 a 2022, bem como as instalações origem
  e o risco associado.
- Os dados estão expostos nas figuras 5a, 5b e 5c a seguir.
+ Os dados estão expostos nas figuras 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Gráfico:-perda-de"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+, 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Gráfico:-proporção-de"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ e 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Gráfico:-proporção-de-risco"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ a seguir.
  As informações dos operadores foram omitidas a fim de preservar dados sigilosos.
  
 \end_layout
@@ -372,6 +482,7 @@ status open
 	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/fluidos_especificos.png
 	lyxscale 50
 	width 90text%
+	rotateAngle 90
 
 \end_inset
 
@@ -386,6 +497,13 @@ Gráfico: perda de contenção de fluidos de utilização específica na indúst
  E&P em m³, no período de 2012 a 2022.
  Adaptado do Painel Dinâmico de Incidentes da Agência Nacional do Petróleo,
  Gás Natural e Biocombustíveis (ANP).
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Gráfico:-perda-de"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -409,7 +527,8 @@ status open
 \begin_inset Graphics
 	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/Histograma_derrames.png
 	lyxscale 50
-	width 80text%
+	width 90text%
+	rotateAngle 90
 
 \end_inset
 
@@ -424,6 +543,13 @@ Gráfico: proporção de origem dos incidentes de perdas de contenção de óleo
  e gás em ambiente terrestre e em alto mar de 2012 a 2022.
  Adaptado do Painel Dinâmico de Incidentes da Agência Nacional do Petróleo,
  Gás Natural e Biocombustíveis (ANP).
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Gráfico:-proporção-de"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -447,7 +573,8 @@ status open
 \begin_inset Graphics
 	filename C:/Users/gusta/OneDrive - ANP/Documentos/TCC-Monografia-GustavoEscher/imagens/derrames_risco.png
 	lyxscale 50
-	width 80text%
+	width 90text%
+	rotateAngle 90
 
 \end_inset
 
@@ -464,6 +591,13 @@ Gráfico: proporção de risco associado dos incidentes de perdas de contenção
  derrame significante de óleo (1-10 m³); Grave: Derrame maior de óleo (>10m³).
  Adaptado do Painel Dinâmico de Incidentes da Agência Nacional do Petróleo,
  Gás Natural e Biocombustíveis (ANP).
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Gráfico:-proporção-de-risco"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -481,18 +615,19 @@ Derrames Intencionais
 \end_layout
 
 \begin_layout Standard
-\begin_inset space \thinspace{}
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 Por outra perspectiva, as descargas intencionais que que somam despejo de
  efluentes como esgoto e outras misturas oleosas podem ocorrer devido a
  lavagem de porões de carga ou ainda pelo descarte de águas produzidas por
  plataformas em alto mar.
- (STOUT; WANG, 2007).
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Stout2007"
+literal "false"
+
+\end_inset
+
+.
  
 \end_layout
 
@@ -508,27 +643,35 @@ Métodos de remediação
 \end_layout
 
 \begin_layout Standard
-\begin_inset space \thinspace{}
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 Diversas áreas de conhecimento têm desenvolvido meios de remediar o óleo
  em contato com o solo e com a água para minimizar ou até mesmo eliminar
  por completo os impactos ocasionados pelo derramamento de óleo.
  Tradicionalmente, a remediação ocorre através de remoção manual, barreiras,
  skimmers, queima in situ, remoção mecânica, materiais absorventes, dispersantes
- químicos, e biorremediação (CHU; PAN, 2012; SINGH et al., 2020).
+ químicos, e biorremediação 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Chu2012,Singh2020"
+literal "false"
+
+\end_inset
+
+.
  
 \end_layout
 
 \begin_layout Standard
 Em costões rochosos o método mais utilizado é a remoção manual.
  Esse método é indicado para locais restritos como fendas, poças e marés
- e conjunções de rochas, bem como áreas mais extensas como praias (CETESB,
- 2020).
+ e conjunções de rochas, bem como áreas mais extensas como praias 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "CETESB2020"
+literal "false"
+
+\end_inset
+
+.
  
 \end_layout
 
@@ -548,7 +691,15 @@ Já as barreiras são utilizadas para concentrar, bloquear e/ou direcionar
 Os skimmers são dispositivos para sucção que flutuam e retiram o óleo da
  superfície da água.
  Tanto as barreiras como os skimmers são métodos associados à dispositivos
- de armazenamento temporário (MIRANDA, ANJOS, MOREIRA, 2014).
+ de armazenamento temporário 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "MIRANDA2020"
+literal "false"
+
+\end_inset
+
+.
  
 \end_layout
 
@@ -560,8 +711,15 @@ Queima in situ consiste na queima controlada do óleo no local onde ocorreu
  do vento e alta emissões de CO2.
  Adicionalmente, existem alguns fatores limitantes para o uso desse método,
  tais como: fontes de ignição, segurança da operação e a composição de alguns
- resíduos que podem afundar em razão da densidade (MIRANDA, ANJOS, MOREIRA,
- 2014).
+ resíduos que podem afundar em razão da densidade 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "MIRANDA2020"
+literal "false"
+
+\end_inset
+
+.
  
 \end_layout
 
@@ -572,7 +730,15 @@ A remoção mecânica é comumente utilizada para recolher o óleo na zona entre
  com a areia.
  Além disso, o uso de máquina provoca alterações no equilíbrio dinâmico,
  promove processos erosivo e o peso das máquinas favorece a compactação
- do substrato (MIRANDA, ANJOS, MOREIRA, 2014).
+ do substrato 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "MIRANDA2020"
+literal "false"
+
+\end_inset
+
+.
  
 \end_layout
 
@@ -580,7 +746,15 @@ A remoção mecânica é comumente utilizada para recolher o óleo na zona entre
 O uso de materiais absorventes é considerado um dos métodos mais eficazes
  devido ao seu baixo custo operacional, alta disponibilidade do material,
  propriedades de hidrofobicidade, alta capacidade e taxa de absorção e retenção
- de óleo (CHU; PAN, 2012, SARBATLY et al., 2016).
+ de óleo 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Chu2012,Sarbatly2016"
+literal "false"
+
+\end_inset
+
+.
  No entanto, Chu e Pan (2012) comentam que, um dos 14 maiores desafios desse
  método é aumentar a absorção de óleo e a repelência à água para fins de
  aplicação prática.
@@ -594,7 +768,15 @@ Os dispersantes químicos são produtos que aceleram o processo de dispersão
  a dispersão do óleo em gotículas que ficam em suspensão no meio aquoso.
  Além disso, o uso de dispersantes reduz a viscosidade do óleo, diminuindo
  a quantidade de energia necessária para dispersar o óleo na coluna d'água
- (SHOLZ et al., 1999, MIRANDA, ANJOS, MOREIRA, 2014).
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "MIRANDA2020,SHOLZ1999"
+literal "false"
+
+\end_inset
+
+.
  
 \end_layout
 
@@ -604,15 +786,30 @@ A biorremediação consiste na adição de substâncias capazes de acelerar o
  processos: bioadição - uso de bactérias e outros microrganismos no meio
  ambiente capazes de degradar o óleo - e bioestimulação - inserção de nutrientes
  e co-substratos em áreas contaminadas para estimular o crescimento de populaçõe
-s autóctones de organismos (MIRANDA, ANJOS, MOREIRA, 2014, LOPES, MILANELLI,
- POFFO, 2007).
+s autóctones de organismos 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Lopes2007,MIRANDA2020"
+literal "false"
+
+\end_inset
+
+.
  
 \end_layout
 
 \begin_layout Standard
 Ressalta-se, no entanto, que os métodos de contenção e remoção apresentados
  até aqui, na maioria das vezes, alcançam somente 20% da quantidade vazada
- (LOPES, MILANELLI, POFFO, 2007).
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Lopes2007"
+literal "false"
+
+\end_inset
+
+.
  Singh et al.
  (2020), ao tratar desse tema, diz que esses métodos não separam completamente
  o óleo da água.
@@ -626,20 +823,43 @@ Nanotecnologia
 \end_layout
 
 \begin_layout Standard
-\begin_inset space \thinspace{}
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 A nanotecnologia vem, cada vez mais, sendo utilizada em diversas áreas da
  ciência que lida com a concepção, desenvolvimento e fabricação de materiais
  em nanoescala em dimensão de 1-100 nm (SINGH et al., 2020).
  Em particular, as nanopartículas (NPs) de óxido de ferro com diferentes
- tamanhos e morfologia têm sido utilizadas em medicina (HERVAULT; THANH,
- 2014), biomedicina (BRITOS et al., 2019; GAO et al., 2009), catálise (ROSSI
- et al., 2014), em armazenamentos magnéticos (REID et al., 2018), entre outras.
+ tamanhos e morfologia têm sido utilizadas em medicina 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Hervault2014"
+literal "false"
+
+\end_inset
+
+, biomedicina 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Britos2019,Gao2009"
+literal "false"
+
+\end_inset
+
+, catálise 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Rossi2014"
+literal "false"
+
+\end_inset
+
+, em armazenamentos magnéticos 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Reid2018"
+literal "false"
+
+\end_inset
+
+, entre outras.
  
 \end_layout
 
@@ -649,7 +869,15 @@ Na área de remediação de óleo diversas pesquisas têm sido desenvolvidas
 s da água.
  Nanomateriais como aerogéis, espumas, esponjas e polímeros revestidos com
  nanopartículas são alguns exemplos de como essa tecnologia vem sendo estudada
- para remoção do óleo de água e solos (DEBS et al., 2019).
+ para remoção do óleo de água e solos 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Debs2019"
+literal "false"
+
+\end_inset
+
+.
  
 \end_layout
 
@@ -685,7 +913,17 @@ culas de óxido de ferro aumenta significativamente a velocidade de absorção
  Os autores testaram o material com uma amostra de óleo mineral e chegaram
  a absorver vezes o peso inicial da espuma.
  Além disso, as espumas funcionalizadas também exibem capacidade magnética,
- facilitando, como pode ser observado na Figura 6.
+ facilitando, como pode ser observado na Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:(a)-Óleo-colorido"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
@@ -714,8 +952,22 @@ status open
  (b,c) Remoção subsequente do óleo pela amostra da espuma de poliuretano
  funcionalizadas com nanopartículas de óxido de ferro acionada magneticamente.
  (d) Superfície da água limpa após o processo.
- Adaptado de Calcagnile et al.
- (2012).
+ Adaptado de 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Calcagnile2012"
+literal "false"
+
+\end_inset
+
+.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:(a)-Óleo-colorido"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -735,7 +987,17 @@ Yoon et al.
  O material proposto pelos autores foi utilizado em uma emulsão de dodecano
  e água, sendo constatado uma significante redução na tensão superficial
  da interface indicando adsorção de nanopartículas e interação entre as
- moléculas de óleo e água, como apresentado na Figura 7.
+ moléculas de óleo e água, como apresentado na Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Evolução-com-o"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
  Os autores concluíram que essa habilidade possui aplicações práticas em
  áreas de recuperação avançada de petróleo e para remoção de óleo emulsionado
  em água.
@@ -765,8 +1027,22 @@ status open
 \begin_layout Plain Layout
 Evolução com o tempo da emulsão de dodecano e água após a adição de nanopartícul
 as superparamagnéticas de óxido de ferro com casca copolímero.
- Adaptado de Yoon et al.
- (2012).
+ Adaptado de 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Yoon2012"
+literal "false"
+
+\end_inset
+
+.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Evolução-com-o"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -786,7 +1062,17 @@ culas magnéticas inorgânicas e camadas de polímeros anfifílicos que possuem
  maior capacidade de sorção de poluentes de hidrocarbonetos.
  Os autores testaram o material com uma amostra de petróleo bruto e verificaram
  a capacidade eficiente de sorção do óleo, como pode ser observado na Figura
- 8.
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:(a)-Frasco-contendo"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
  O material, quando introduzido em um ambiente aquoso poluído com petróleo
  bruto, foi capaz de sorver 10 vezes o seu peso inicial peso.
 \end_layout
@@ -819,8 +1105,22 @@ status open
  (c) Comparação da vista superior de nanopartículas carregadas de petróleo
  bruto capturado contra a parede do frasco por um ímã externo (topo) e água
  contaminada com petróleo bruto (parte inferior).
- Adaptado de Sanders et al.
- (2013).
+ Adaptado de 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "PaviaSanders2013"
+literal "false"
+
+\end_inset
+
+.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:(a)-Frasco-contendo"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -838,7 +1138,17 @@ Foi estudado por Wang et al.
  (2013) nanotubos de carbono de paredes múltiplas decorados com nanopartículas
  de magnetita na separação de óleo em água.
  O material foi testado em uma emulsão de diesel com água, como ilustra
- a Figura 9.
+ a Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:(a)-Emulsão-de"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
  Os autores relataram que a remoção de óleo é feita por meio de duas etapas,
  em que os nanotubos são primeiro dispersos na interface óleo-água e, em
  seguida, as gotículas de óleo são arrastadas para fora da água por um ímã.
@@ -873,8 +1183,22 @@ status open
 las de magnetita com a emulsão óleo-água.
  (b) Remoção dos nanotubos juntamente com óleo retido por um ímã na lateral
  do frasco.
- Adaptado de Wang et al.
- (2013).
+ Adaptado de 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Wang2013"
+literal "false"
+
+\end_inset
+
+.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:(a)-Emulsão-de"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -894,7 +1218,17 @@ Vengsarkar et al.
  de óleo em água preparadas usando dodecano.
  As nanopartículas revestidas com dupla camada foram capazes de estabilizar
  uma emulsão óleo em água, mostrando um potencial de aplicação na remediação
- e remoção de óleo derramado (Figura 10).
+ e remoção de óleo derramado (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Formação-estável-de"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+).
 \end_layout
 
 \begin_layout Standard
@@ -922,8 +1256,22 @@ status open
 Formação estável de emulsão de óleo em água usando nanopartículas de óxido
  de ferro revestidas com dupla camada funcionalizadas com estearoil lactilato
  de sódio.
- Adaptado de Vengsarkar et al.
- (2014).
+ Adaptado de 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Vengsarkar2014"
+literal "false"
+
+\end_inset
+
+.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Formação-estável-de"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -944,7 +1292,17 @@ Foi preparado por Raj e Joy (2015) um nanocompósito adsorvente magnético
  viscosidade, verificando em ambos os casos que o material proposto pelos
  autores apresenta boa capacidade de retenção de óleo, um grama do material
  é capaz de reter 12,93 g de óleo de baixa viscosidade e 7,65 g de óleo
- alta viscosidade, como apresentado na Figura 11.
+ alta viscosidade, como apresentado na Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Retenção-do-óleo"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
  Foi verificado que o material pode ser reutilizado após a recuperação por
  tratamento térmico ou por extração com solvente.
 \end_layout
@@ -972,7 +1330,22 @@ status open
 
 \begin_layout Plain Layout
 Retenção do óleo em função do tempo usando nanocompósito adsorvente magnético.
- Adaptado de Raj e Joy (2015).
+ Adaptado de 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Raj2015"
+literal "false"
+
+\end_inset
+
+).
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Retenção-do-óleo"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -993,7 +1366,17 @@ na foram sintetizados por Kumar et al.
  sendo constatado capacidade de retenção de óleo igual a 7,2 g/g de nanocompósit
 o.
  O material pode ser reutilizado após a lavagem com etanol, como ilustrado
- na Figura 12.
+ na Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Separação-do-nanomaterial"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
  Foi pontuado que após 5 ciclos, a recuperação de óleo permaneceu estável,
  caindo de 7,2 g/g para 6,1 g/g.
 \end_layout
@@ -1021,8 +1404,22 @@ status open
 
 \begin_layout Plain Layout
 Separação do nanomaterial por extração com etanol.
- Adaptado de Kumar et al.
- (2015).
+ Adaptado de 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Kumar2015"
+literal "false"
+
+\end_inset
+
+.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Separação-do-nanomaterial"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -1062,9 +1459,18 @@ GAO et al.
 Ghobashy e Elhady.
  (2017) investigou o efeito de pellets de polietileno e Fe3O4 na separação
  óleo em água.
- Conforme mostrado na Figura 13, os pellets magnetizados foram adicionados
- em uma placa de petri contendo uma mistura de água e resíduos de óleo de
- motor.
+ Conforme mostrado na Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Demonstração-da-capacidade"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+, os pellets magnetizados foram adicionados em uma placa de petri contendo
+ uma mistura de água e resíduos de óleo de motor.
  É possível observar que logo após a inserção dos pellets na mistura óleo-água,
  os pellets flutuam na superfície, toca o óleo e o adsorve da mistura rapidament
 e.
@@ -1097,7 +1503,22 @@ status open
 \begin_layout Plain Layout
 Demonstração da capacidade de magnetizar dos pellets magnetizados para a
  remoção de óleo.
- Fonte: (GHOBASHY; ELHADY,2017).
+ Fonte: 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Ghobashy2017"
+literal "false"
+
+\end_inset
+
+.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Demonstração-da-capacidade"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -1112,7 +1533,7 @@ Demonstração da capacidade de magnetizar dos pellets magnetizados para a
 
 \begin_layout Standard
 Foi preparado por Abdullah et al.
- (2017) nanopartículas hidrofóbicas magnéticas monodispersas para coleta
+ (2016) nanopartículas hidrofóbicas magnéticas monodispersas para coleta
  de óleo na superfície da água.
  Petróleo pesado árabe produzido no campo petrolífero na Arábia Saudita
  e água do mar coletada do golfo arábico ocidental na costa saudita foram
@@ -1128,8 +1549,17 @@ Foi preparado por Xu et al.
  tratado com metiltriclorosilano (MTS) e dispersado nanopartículas de Fe3O4
  na superfície conferindo, assim, característica magnética.
  O material foi adicionado em diversas misturas de água com óleo, como ilustra
- a Figura 14, verificando a capacidade de absorção de 59 a 136 vezes o seu
- próprio peso.
+ a Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Capacidade-de-absorção"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+, verificando a capacidade de absorção de 59 a 136 vezes o seu próprio peso.
  Além disso, a capacidade de absorção permaneceu estável após 30 ciclos.
 \end_layout
 
@@ -1157,8 +1587,22 @@ status open
 \begin_layout Plain Layout
 Capacidade de absorção de aerogel magnetizado para diferentes misturas de
  óleo e água.
- Adaptado de Xu et al.
- (2018).
+ Adaptado de 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Xu2017"
+literal "false"
+
+\end_inset
+
+.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Capacidade-de-absorção"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -1181,7 +1625,17 @@ O projeto de síntese e avaliação laboratorial de nanocompósitos Fe3O4-SiO2
  testados.
  Para movimento do ferrofluido foi utilizado um campo magnético gerado a
  partir um eletroímã que conseguiu atrair o ferrofluido em questão de segundos
- como observado na Figura 15.
+ como observado na Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Recuperação-do-óleo"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
@@ -1208,7 +1662,22 @@ status open
 \begin_layout Plain Layout
 Recuperação do óleo cru da superfície da água utilizando nanocompósitos
  Fe3O4-SiO2.
- Fonte: (KAMGAR et al., 2018).
+ Fonte: 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Kamgar2018"
+literal "false"
+
+\end_inset
+
+.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Recuperação-do-óleo"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -1230,7 +1699,17 @@ Abdullah et al.
  Ambos nanomateriais (MAE-MNMs e OBE-MNMs) foram testados com um óleo bruto
  pesado árabe, verificando uma recuperação de 92% e 88%, respectivamente.
  Foi observado uma reutilização eficaz dos nanomateriais por pelo menos
- 5 ciclos, como mostrado na Figura 16.
+ 5 ciclos, como mostrado na Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Eficiência-da-recuperação"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
@@ -1256,8 +1735,22 @@ status open
 
 \begin_layout Plain Layout
 Eficiência da recuperação de óleo por ciclo para MAE-MNMs e OBE-MNMs.
- Adaptado de Abdullah et al.
- (2019).
+ Adaptado de 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Abdullah2019"
+literal "false"
+
+\end_inset
+
+.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Eficiência-da-recuperação"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -1287,7 +1780,17 @@ Em um estudo proposto por Kim et al.
  derramado e coleta eficiente dos sorventes embebidos em óleo.
  Os autores observaram alta absorção de óleo cru (24 g/g).
  Além disso, também foi proposto um arrasto magnético com uma velocidade
- e altura constante, como observado na Figura 17.
+ e altura constante, como observado na Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:O-sistema-de"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
  
 \end_layout
 
@@ -1314,8 +1817,22 @@ status open
 
 \begin_layout Plain Layout
 O sistema de arrasto magnético construído por bomba de seringa com velocidade
- de arrasto constante do ímã Adaptado de Kim et al.
- (2021).
+ de arrasto constante do ímã Adaptado de 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Kim2021"
+literal "false"
+
+\end_inset
+
+.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:O-sistema-de"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -1335,7 +1852,17 @@ Analisando os trabalhos apresentados optou-se por realizar uma análise SWOT
  para a remediação do óleo com o intuito de eliminar as fraquezas e ameaças
  e aproveitar as oportunidades acerca do tema para aplicar no desenvolvimento
  desta pesquisa.
- Essa análise está apresenta na Figura 18.
+ Essa análise está apresentada na Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Análise-SWOT-dos"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
@@ -1362,6 +1889,13 @@ status open
 \begin_layout Plain Layout
 Análise SWOT dos trabalhos apresentado da literatura sobre o uso de nanopartícul
 as para remoção do óleo.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Análise-SWOT-dos"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -1375,23 +1909,26 @@ as para remoção do óleo.
 \end_layout
 
 \begin_layout Standard
-A partir da Figura 18, pode-se ressaltar que ainda existe uma necessidade
- de estudos envolvendo nanopartículas para remediação de áreas impactadas
- com petróleo, considerando o volume de óleo derramado (os estudos da literatura
- são em escala de bancada), o tipo de óleo (os estudos existentes utilizam
- derivados do petróleo ou não levam em conta o API do óleo), a salinidade
- da água do mar (os estudos encontrados utilizam água destilada) e o tipo
- de SPIONs aplicada (boa parte dos estudos utilizam apenas um nanomaterial).
+A partir da Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Análise-SWOT-dos"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+, pode-se ressaltar que ainda existe uma necessidade de estudos envolvendo
+ nanopartículas para remediação de áreas impactadas com petróleo, considerando
+ o volume de óleo derramado (os estudos da literatura são em escala de bancada),
+ o tipo de óleo (os estudos existentes utilizam derivados do petróleo ou
+ não levam em conta o API do óleo), a salinidade da água do mar (os estudos
+ encontrados utilizam água destilada) e o tipo de SPIONs aplicada (boa parte
+ dos estudos utilizam apenas um nanomaterial).
 \end_layout
 
 \begin_layout Standard
-\begin_inset space \thinspace{}
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
 \begin_inset Note Note
 status open
 
