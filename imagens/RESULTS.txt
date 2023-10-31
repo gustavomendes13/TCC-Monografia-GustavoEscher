@@ -1,0 +1,21 @@
+TABELA RESULTADOS 
+
+
+\begin{table}[]
+\centering
+\begin{tabular}{llll}
+ÓLEO             & Tipo                                & CA {[}g/g{]} & FR {[}\%{]} \\
+ÓLEO 1 (ºAPI 25) & NÃO FUNCIONALIZADA                  & 1,36         & 32,09\%     \\
+                 & CTAB                                & 3,18         & 74,79\%     \\
+                 & Fe3O4                               & 2,89         & 69,19\%     \\
+                 & NÃO FUNCIONALIZADA IMPERMEABILIZADA & 2,00         & 46,09\%     \\
+                 & CTAB   IMPERMEABILIZADA             & 3,65         & 84,67\%     \\
+                 & Fe3O4 IMPERMEABILIZADA              & 4,04         & 95,59\%     \\
+ÓLEO 2 (ºAPI 20) & NÃO FUNCIONALIZADA                  & 1,37         & 32,05\%     \\
+                 & CTAB                                & 3,41         & 78,40\%     \\
+                 & Fe3O4                               & 3,80         & 88,83\%     \\
+                 & NÃO FUNCIONALIZADA IMPERMEABILIZADA & 1,95         & 46,47\%     \\
+                 & CTAB   IMPERMEABILIZADA             & 3,96         & 94,44\%     \\
+                 & Fe3O4 IMPERMEABILIZADA              & 4,20         & 93,96\%    
+\end{tabular}
+\end{table}

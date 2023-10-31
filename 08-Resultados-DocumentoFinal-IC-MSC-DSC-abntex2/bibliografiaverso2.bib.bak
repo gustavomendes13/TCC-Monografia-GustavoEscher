@@ -481,4 +481,17 @@
   publisher = {Elsevier {BV}},
 }
 
+@Article{Chieng2020,
+  author    = {Z. H. Chieng and Mysara Eissa Mohyaldinn and Anas. M. Hassan and Hans Bruining},
+  journal   = {Polymers},
+  number    = {7},
+  pages     = {1470},
+  title     = {Experimental Investigation and Performance Evaluation of Modified Viscoelastic Surfactant ({VES}) as a New Thickening Fracturing Fluid},
+  volume    = {12},
+  year      = {2020},
+  month     = {jun},
+  doi       = {10.3390/polym12071470},
+  publisher = {{MDPI} {AG}},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
